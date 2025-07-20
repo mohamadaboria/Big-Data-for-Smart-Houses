@@ -16,7 +16,7 @@ A comprehensive real-time IoT data platform that ingests smart home device telem
 2. **Open Command Prompt** as Administrator and navigate to the project directory
 3. **Run the startup script**:
    ```cmd
-   start.bat
+   start.bat || ./start
    ```
 
 That's it! The script will:

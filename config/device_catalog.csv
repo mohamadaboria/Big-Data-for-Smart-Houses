@@ -1,0 +1,12 @@
+device_id,device_type,user_id,location,installation_date,manufacturer,model
+device_001,thermostat,user_001,living_room,2024-01-15,Nest,Learning Thermostat
+device_002,smart_bulb,user_001,bedroom,2024-01-16,Philips,Hue White
+device_003,smart_plug,user_001,kitchen,2024-01-17,TP-Link,Kasa Smart
+device_004,security_camera,user_001,front_door,2024-01-18,Ring,Video Doorbell
+device_005,motion_sensor,user_001,hallway,2024-01-19,SmartThings,Motion Sensor
+device_006,thermostat,user_002,living_room,2024-01-20,Ecobee,SmartThermostat
+device_007,smart_bulb,user_002,kitchen,2024-01-21,LIFX,Color Bulb
+device_008,smart_plug,user_002,garage,2024-01-22,Amazon,Smart Plug
+device_009,security_camera,user_002,backyard,2024-01-23,Arlo,Pro 4
+device_010,motion_sensor,user_002,basement,2024-01-24,Wyze,Motion Sensor
+

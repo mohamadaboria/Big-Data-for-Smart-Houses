@@ -1,0 +1,29 @@
+# Core data processing libraries
+pandas>=2.0.0,<3.0.0
+numpy>=1.24.0,<2.0.0
+pyarrow>=12.0.0,<16.0.0
+
+# Kafka client
+kafka-python>=2.0.2,<3.0.0
+
+# Dashboard and visualization
+streamlit>=1.28.0,<2.0.0
+streamlit-autorefresh>=1.0.0,<2.0.0
+plotly>=5.15.0,<6.0.0
+
+# Date and time handling
+python-dateutil>=2.8.0,<3.0.0
+
+# Scheduling and automation
+schedule>=1.2.0,<2.0.0
+
+# File system monitoring
+watchdog>=3.0.0,<5.0.0
+
+# System utilities
+psutil>=5.9.0,<6.0.0
+
+# Additional utilities for compatibility
+typing-extensions>=4.5.0
+importlib-metadata>=6.0.0
+
